@@ -29,7 +29,7 @@
 
 
 ## NAMES: 
-[put your name(s) here]
+[put your full name(s) and NetIDs here]
 
 
 ## QUESTIONS
@@ -103,9 +103,9 @@ Your answer here
 
 ---
 
-### Bonus Challenges
+### Bonus Challenges (not worth any points, but just for fun)
 
-#### Q11. "I heard a rumor from an old alumni that there's a ghost in the bell tower of the [library](/campus/library/). I've never even seen the third floor -- there's only two floors! So it must be fake! But if you know a way, can you show me how to get to it??"
+#### Q11. "I heard a rumor from an old alumni that there's a ghost in the third floor of the [library](/campus/library/). I've never even seen the third floor -- there's only two floors! So it must be fake! But if you know a way, can you show me how to get to it??"
 ```
 Your answer here
 ```
