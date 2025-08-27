@@ -111,4 +111,4 @@ Your answer here
 ```
 
 
-#### (Can you write every answer as a single command line?)
+#### Q12. (Can you write each answer to the previoos questions as a single command line?)
